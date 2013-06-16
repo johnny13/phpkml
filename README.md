@@ -10,6 +10,9 @@ fputcsv() output functions for Google Fusion Table Setup
 
 KMLCircles - Using PHP to create Circles in KML on the fly.
 
+Generate KML Files
+kmlcreator- code based on: https://code.google.com/p/kmlcreator/
+
 ## Quick Start
 
 ###Convert Shape to KML

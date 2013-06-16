@@ -25,7 +25,13 @@ An in-depth blog post can be found here: [huement.com/blog/?p=921](http://www.hu
 
 **<http://thomasjbradley.github.com/shp-to-kml-to-mysql/>**
 
-## License
+## De jure
+#### copyright (c) 2013 [huement.com](http://huement.com)    
+Licensed under the [MIT](http://www.opensource.org/licenses/mit-license.php) & [GPL v3](http://opensource.org/licenses/gpl-3.0.html) licenses.    
+    
+Author: Derek Scott [@huement.com](https://twitter.com/huement).    
 
-- The tutorial is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Canada License](http://creativecommons.org/licenses/by-nc-sa/2.5/ca/).
-- `kml-to-mysql.php` is licensed under the [New BSD License](https://github.com/thomasjbradley/shp-to-kml-to-mysql/blob/master/NEW-BSD-LICENSE.txt).
+### Acknowledgements
+Thanks to all giants and plugin authors shoulders this framework is standing on.
+
+![hui - Huement User Interface](https://huement.s3.amazonaws.com/imgs/white_pumpkin.jpg)  

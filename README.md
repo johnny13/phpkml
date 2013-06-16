@@ -23,8 +23,6 @@ Execute kml-to-mysql.php with the path to your KML file and a new table name.
 ##More Info
 An in-depth blog post can be found here: [huement.com/blog/?p=921](http://www.huement.com/blog/?p=921)
 
-**<http://thomasjbradley.github.com/shp-to-kml-to-mysql/>**
-
 ## De jure
 #### copyright (c) 2013 [huement.com](http://huement.com)    
 Licensed under the [MIT](http://www.opensource.org/licenses/mit-license.php) & [GPL v3](http://opensource.org/licenses/gpl-3.0.html) licenses.    
